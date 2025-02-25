@@ -1,0 +1,12 @@
+#header {
+  display: flex;
+}
+
+#title {
+  position: relative;
+  font-size: 56px;
+  text-align: center;
+  margin: auto;
+  margin-top: 8px;
+  background-color: #121212;
+}
